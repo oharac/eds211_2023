@@ -24,7 +24,7 @@ knitr::include_graphics("img/usgs_sat.jpeg")
 
 ## Welcome to EDS 211
 
-### Team Science, Collaborative Analysis And Project Management!
+__Team Science, Collaborative Analysis And Project Management!__
 
 Science in general, and data science in particular, are more and more requiring team science approaches to addressing the most pressing questions. Managing team science projects is therefore becoming an increasingly important skill for any scientist. This course will explore the principles and practical tools available for effective and efficient project management.
 
