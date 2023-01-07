@@ -15,14 +15,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-```{r, out.width = "100%", fig.cap = "Update this image by dropping your new image into the img folder of the project, then open the index.Rmd & change the path to point to the new image. Image: Mississippi River south of Memphis, TN, from USGS shared on Unsplash (https://unsplash.com/photos/35Z2ylLRCO8)."}
+```{r, eval = FALSE, include = FALSE, out.width = "100%", fig.cap = "Update this image by dropping your new image into the img folder of the project, then open the index.Rmd & change the path to point to the new image. Image: Mississippi River south of Memphis, TN, from USGS shared on Unsplash (https://unsplash.com/photos/35Z2ylLRCO8)."}
 
 # UPDATE IMAGE HERE 
 # or copy/paste this code elsewhere, updating the file path, to add other images to your site!
 knitr::include_graphics("img/usgs_sat.jpeg")
 ```
 
-## Welcome to EDS 211: Team Science, Collaborative Analysis And Project Management!
+## Welcome to EDS 211
+
+### Team Science, Collaborative Analysis And Project Management!
 
 Science in general, and data science in particular, are more and more requiring team science approaches to addressing the most pressing questions. Managing team science projects is therefore becoming an increasingly important skill for any scientist. This course will explore the principles and practical tools available for effective and efficient project management.
 
@@ -55,30 +57,30 @@ The course is designed to work in parallel with the beginning phase of your MEDS
     - Mondays 1:00 - 2:15 (NCEAS)
     - Wednesdays 11:00-12:15 (NCEAS)
 
-## Learning objectives
+<!-- ## Learning objectives -->
 
-Condimentum id venenatis a condimentum. Ultricies mi quis hendrerit dolor magna eget est. Turpis egestas maecenas pharetra convallis. Sem nulla pharetra diam sit amet. Diam volutpat commodo sed egestas egestas fringilla. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Ornare massa eget egestas purus viverra accumsan in.
+<!-- Condimentum id venenatis a condimentum. Ultricies mi quis hendrerit dolor magna eget est. Turpis egestas maecenas pharetra convallis. Sem nulla pharetra diam sit amet. Diam volutpat commodo sed egestas egestas fringilla. Mauris in aliquam sem fringilla ut morbi tincidunt augue interdum. Ornare massa eget egestas purus viverra accumsan in. -->
 
--   Vulputate eu scelerisque felis imperdiet proin.
--   Euismod nisi porta lorem mollis aliquam.
--   Urna molestie at elementum eu facilisis sed odio morbi quis.
--   Convallis a cras semper auctor neque. Semper quis lectus nulla at volutpat diam ut venenatis tellus.
+<!-- -   Vulputate eu scelerisque felis imperdiet proin. -->
+<!-- -   Euismod nisi porta lorem mollis aliquam. -->
+<!-- -   Urna molestie at elementum eu facilisis sed odio morbi quis. -->
+<!-- -   Convallis a cras semper auctor neque. Semper quis lectus nulla at volutpat diam ut venenatis tellus. -->
 
-## Course requirements
+<!-- ## Course requirements -->
 
-Concurrent enrollment in EDS 411A.
+<!-- Concurrent enrollment in EDS 411A. -->
 
-## Tentative topics
+<!-- ## Tentative topics -->
 
-| Week | Lecture topics | Lab topics |
-|------|----------------|------------|
-| 1    | Topics         | Topics     |
-| 2    | Topics         | Topics     |
-| 3    | Topics         | Topics     |
-| 4    | Topics         | Topics     |
-| 5    | Topics         | Topics     |
-| 6    | Topics         | Topics     |
-| 7    | Topics         | Topics     |
-| 8    | Topics         | Topics     |
-| 9    | Topics         | Topics     |
-| 10   | Topics         | Topics     |
+<!-- | Week | Lecture topics | Lab topics | -->
+<!-- |------|----------------|------------| -->
+<!-- | 1    | Topics         | Topics     | -->
+<!-- | 2    | Topics         | Topics     | -->
+<!-- | 3    | Topics         | Topics     | -->
+<!-- | 4    | Topics         | Topics     | -->
+<!-- | 5    | Topics         | Topics     | -->
+<!-- | 6    | Topics         | Topics     | -->
+<!-- | 7    | Topics         | Topics     | -->
+<!-- | 8    | Topics         | Topics     | -->
+<!-- | 9    | Topics         | Topics     | -->
+<!-- | 10   | Topics         | Topics     | -->

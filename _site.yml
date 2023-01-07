@@ -7,22 +7,20 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Topics"
-      menu:
-        - text: "Topic 1: Add a new site page"
-          href: topic_1.html
-        - text: "Topic 2: Update site title & subtitle"
-          href: topic_2.html
-        - text: "Topic 3: Add images"
-          href: topic_3.html
-        - text: "Topic 4: Change the theme"
-          href: topic_4.html
-        - text: "Topic 5: Basic formatting"
-          href: topic_5.html
-    - text: "Assignments"
-      href: assignments.html
-    - text: "Resources"
-      href: resources.html
+    # - text: "Weeks"
+    #   menu:
+    #     - text: "Week 1: Group roles and code of conduct"
+    #       href: week_1.html
+        # - text: "Week 2: Intro to project management"
+        #   href: week_2.html
+        # - text: "Week 3: Project management in GitHub"
+        #   href: week_3.html
+        # - text: "Week 4: More project management in GitHub"
+        #   href: week_4.html
+        # - text: "Week 5: Finalize Team Management Plan"
+        #   href: week_5.html
+    # - text: "Resources"
+    #   href: resources.html
     - icon: fab fa-github
       href: https://github.com/allisonhorst/meds-distill-template
 output:
